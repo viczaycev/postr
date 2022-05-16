@@ -1,4 +1,4 @@
-package com.example.postr.domain.repository;
+package com.example.postr.repository;
 
 import com.example.postr.domain.Message;
 import org.springframework.data.repository.CrudRepository;
