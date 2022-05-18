@@ -6,6 +6,7 @@
 .idea/
 *.iml
 *.iws
+uploads/
 
 # Maven
 log/
